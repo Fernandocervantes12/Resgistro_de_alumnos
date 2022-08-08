@@ -1,6 +1,5 @@
 import sqlite3
 
-from colorama import Cursor
 
 class alumnos:
   def abrir(self):
